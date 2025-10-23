@@ -1,4 +1,6 @@
 venv/
 *.html
 *.csv
+*.swp
+*.wal
 
