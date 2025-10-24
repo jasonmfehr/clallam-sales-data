@@ -1,4 +1,7 @@
 venv/
+.venv/
+.vscode/
+cache/
 *.html
 *.csv
 *.swp
