@@ -1,0 +1,5 @@
+beautifulsoup4 == 4.14.2
+geopy == 2.4.1
+duckdb == 1.4.1
+OSMPythonTools == 0.3.6
+certifi == 2025.10.5
